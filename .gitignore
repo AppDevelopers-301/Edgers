@@ -12,4 +12,11 @@
 /captures
 .externalNativeBuild
 .cxx
+# Gradle
+.gradle/
+
+# IntelliJ
+.idea/workspace.xml
+
+# Local config
 local.properties

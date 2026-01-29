@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Commit Trapezoid on Tamu's Branch">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/edgers/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/edgers/Shape.java" afterDir="false" />
-    </list>
+    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Update Shape with." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769553929242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update Shape with.">
+      <option name="closed" value="true" />
+      <created>1769649204456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769649204456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Shape.java" />
     <MESSAGE value="Commit Trapezoid on Tamu's Branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Trapezoid on Tamu's Branch" />
+    <MESSAGE value="Update Shape with." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Shape with." />
   </component>
 </project>

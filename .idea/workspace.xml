@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Added Color String field" />
+    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Git pulled the origin main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/edgers/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/edgers/Square.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
 }]]></component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\tony2\.gradle\wrapper\dists\gradle-8.13-bin\5xuhj0ry160q40clulazy9h7d\gradle-8.13" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="8.13" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -202,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769648481869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Git pulled the origin main">
+      <option name="closed" value="true" />
+      <created>1769650684320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769650684320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +231,7 @@
     <MESSAGE value="Added Circle class" />
     <MESSAGE value="Try to git push" />
     <MESSAGE value="Added Color String field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Color String field" />
+    <MESSAGE value="Git pulled the origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git pulled the origin main" />
   </component>
 </project>

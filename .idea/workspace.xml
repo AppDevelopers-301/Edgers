@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Update Shape with." />
+    <list default="true" id="786b0192-8e51-4baf-b94d-87665cefe4e2" name="Changes" comment="Update Shape with string." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769649204456</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update Shape with string.">
+      <option name="closed" value="true" />
+      <created>1769650367260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769650367260</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +147,7 @@
     <MESSAGE value="Commit Shape.java" />
     <MESSAGE value="Commit Trapezoid on Tamu's Branch" />
     <MESSAGE value="Update Shape with." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Shape with." />
+    <MESSAGE value="Update Shape with string." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Shape with string." />
   </component>
 </project>

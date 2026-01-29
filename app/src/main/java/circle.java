@@ -1,3 +1,3 @@
-public class circle  extends shape{
+public class pentagon extends shape{
 
 }
